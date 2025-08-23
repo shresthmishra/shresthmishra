@@ -30,4 +30,3 @@ A passionate developer on a journey of continuous learning and building.
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthmishra&layout=compact&theme=dark&hide_border=true)
-- ⚡ Fun fact: I love Gaming and Singing.
