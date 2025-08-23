@@ -23,8 +23,8 @@ A passionate developer on a journey of continuous learning and building. My mott
 <br>
 
 ### Would love to connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shresthmishra/)
-[![X (formerly Twitter)](https://img.shields.io/badge/X%20(formerly%20Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ShresthMishra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shresthmishra/)
+[![X (formerly Twitter)](https://img.shields.io/badge/X%20(formerly%20Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MishraShresth)
 
 <br>
 <br>
