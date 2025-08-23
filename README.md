@@ -29,4 +29,5 @@ A passionate developer on a journey of continuous learning and building.
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shresthmishra&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthmishra&layout=compact&theme=dark&hide_border=true)
+- ⚡ Fun fact: I love Gaming and Singing.
