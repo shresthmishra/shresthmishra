@@ -29,4 +29,4 @@ A passionate developer on a journey of continuous learning and building.
 <br>
 <br>
 
-![Shresth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shresthmishra&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthmishra&layout=compact&theme=dark&hide_border=true)
