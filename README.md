@@ -1,6 +1,6 @@
 ### Heyo! I'm Shresth Mishra!
 
-A passionate developer on a journey of continuous learning and building. My motto is simple: **"We live, we learn."**
+A passionate developer on a journey of continuous learning and building.
 
 ---
 
