@@ -4,7 +4,7 @@ A passionate developer on a journey of continuous learning and building.
 
 ---
 
-- I’m currently focused on mastering **Java**, **Python**, and core software engineering principles.
+- I’m currently focused on mastering Kotlin, **Python**, and core software engineering principles.
 - I enjoy exploring **Android** and **Full-Stack Web Development** through hands-on projects.
 - My goal is to build a strong foundation in problem-solving and creating efficient, real-world applications.
 
