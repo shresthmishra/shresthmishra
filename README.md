@@ -27,4 +27,4 @@ A passionate developer on a journey of continuous learning and building.
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthmishra&layout=compact&theme=dark&hide_border=true)
+!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthmishra&layout=compact&theme=dark&hide_border=true)
